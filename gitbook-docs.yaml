@@ -6,11 +6,12 @@ site:
       key: section-2
       title: Eternal Horizon
       path: eternal-horizon
+      description: ""
       default: true
       children:
         - type: space
           key: space-2
-          title: Product Docs
+          title: Eternal Horizon
           path: product-docs
           default: true
           draft: true
